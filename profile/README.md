@@ -47,6 +47,8 @@
 ## 📊 GitHub статистика
 
 <p align="center">
+![GMLK's GitHub stats](https://github-readme-stats.vercel.app/api?username=GMLK-DEVELOPER&hide=contribs,prs)
+
   <img src="https://github-readme-stats.vercel.app/api?username=GMLK-DEVELOPER&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GMLK-DEVELOPER&theme=tokyonight&hide_border=true" />
 </p>

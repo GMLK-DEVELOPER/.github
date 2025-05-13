@@ -35,12 +35,12 @@
 ## 📊 Статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GMLK-DEVELOPER&show_icons=true&hide=prs&count_private=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yuliitezarygml&show_icons=true&hide=prs&count_private=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GMLK-DEVELOPER&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ВАШ_ЮЗЕРНЕЙМ&show_icons=true&theme=radical" alt="GitHub Streak" />
+
 </p>
 
 ---

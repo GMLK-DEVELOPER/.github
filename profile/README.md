@@ -56,5 +56,5 @@
 ## ☕ Поддержи меня
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy_me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://buymeacoffee.com/yuliitezarygmlk"><img src="https://img.shields.io/badge/Buy_me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 </p>
